@@ -56,7 +56,7 @@ FinSolve AI is a **secure, role-based, internal AI assistant designed specifical
 
 ## RAG Architecture
 
-![Image alt](https://github.com/AbelPriyakumarP/FinTech-Company-ChatBot/blob/743d6b01be4000b3e092a46a444600f11ba6cb68/resources/rag%20flowchart.png)
+![Image alt](https://github.com/AbelPriyakumarP/Fintech-Technologies-Chatbot/blob/5f751450745f9e2b0a9f1ad637ef9ddbf788e6c5/resources/rag%20flowchart.png)
 
 ## 🚀 Getting Started
 
