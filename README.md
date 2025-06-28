@@ -46,7 +46,7 @@ FinSolve AI is a **secure, role-based, internal AI assistant designed specifical
 ---
 
 ## 📖 Architecture Overview
-![Image alt](https://github.com/AbelPriyakumarP/FinTech-Company-ChatBot/blob/88eff32781b4459c0f971fdf716af7453cb74de1/Architecture%20Overview.png)
+![Image alt](https://github.com/AbelPriyakumarP/Fintech-Technologies-Chatbot/blob/4b9604153ed648b7560d9fd1c7e3a8e6a6f6c752/Architecture%20Overview.png)
 
 ## 📸 Screenshots
 
